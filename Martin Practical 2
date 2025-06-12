@@ -69,10 +69,10 @@ Output:
 3. View Version History Log
 4. Exit
 Enter your choice (1–4): 1
-Enter software/module name: Login Button not working
-Enter new version (e.g., v1.2.0): The login button does not resoind when clicked
-Enter description of update/modification: Critical
- Version for 'Login Button not working' updated to 'The login button does not resoind when clicked' and logged.
+Enter software/module name: Inventory System
+Enter new version (e.g., v1.2.0): v2.01
+Enter description of update/modification: Added new stock alert feature
+ Version for 'Inventory System' updated to 'v2.01' and logged.
 
 --- Configuration Management Menu ---
 1. Add/Update Software Version
@@ -82,7 +82,7 @@ Enter description of update/modification: Critical
 Enter your choice (1–4): 2
 
 --- Current Software Versions ---
-Login Button not working: The login button does not resoind when clicked
+Inventory System: v2.01
 
 --- Configuration Management Menu ---
 1. Add/Update Software Version
@@ -94,6 +94,7 @@ Enter your choice (1–4): 3
 --- Version History Log ---
 2025-06-12 10:25:05 | Inventory System updated to v2.01 | Added new stock alert feature
 2025-06-12 10:53:59 | Login Button not working updated to The login button does not resoind when clicked | Critical
+2025-06-12 11:03:58 | Inventory System updated to v2.01 | Added new stock alert feature
 
 
 --- Configuration Management Menu ---
